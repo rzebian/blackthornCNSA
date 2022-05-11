@@ -1,6 +1,6 @@
-.section.section-wrapper.event-register-wrapper {
-    display:none
+.event-register-wrapper {
+    display:none !important
 }
 .success-image {
-    display:none
+    display:none !important
 }
