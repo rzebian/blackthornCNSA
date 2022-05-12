@@ -1,6 +1,15 @@
 .event-register-wrapper {
     display:none !important
 }
+.ticket-summary {
+    display:none !important
+}
+.subtotal-row {
+    display:none !important
+}
+.total-row {
+    display:none !important
+}
 .success-image {
     display:none !important
 }
