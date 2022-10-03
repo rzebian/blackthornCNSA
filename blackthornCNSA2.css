@@ -1,3 +1,9 @@
+.welcome[_ngcontent-xfg-c175] {
+    display:none
+}
+.appbar-header[_ngcontent-xfg-c186] .action-button.get-tickets-button[_ngcontent-xfg-c186]:not([disabled]) {
+    display:none !important
+}
 .event-register-wrapper {
     display:none !important
 }
